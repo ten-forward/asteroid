@@ -28,8 +28,9 @@ LOCAL_C_INCLUDES := $(LOCAL_PATH)/$(SDL_PATH)/include \
 
 FILE_LIST := $(wildcard $(LOCAL_PATH)/*.cpp)
 
-LOCAL_SRC_FILES := $(SDL_PATH)/src/main/android/SDL_android_main.cpp \
-	$(FILE_LIST:$(LOCAL_PATH)/%=%)
+LOCAL_SRC_FILES := $(FILE_LIST:$(LOCAL_PATH)/%=%) \
+					$(SDL_PATH)/src/main/android/SDL_android_main.cpp
+
 
 LOCAL_SHARED_LIBRARIES := SDL2 SDL2_image SDL2_mixer SDL2_ttf
 LOCAL_STATIC_LIBRARIES := luacppinterface lua box2d
