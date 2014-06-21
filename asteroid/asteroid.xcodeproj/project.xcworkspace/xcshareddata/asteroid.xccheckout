@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96F20346-7B89-42F5-8EF3-C2390A155581</string>
+	<key>IDESourceControlProjectName</key>
+	<string>asteroid</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>256EEE8A-6EAB-4297-9AC5-9AAD3B31EA2B</key>
+		<string>ssh://github.com/ten-forward/asteroid.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>asteroid/asteroid.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>256EEE8A-6EAB-4297-9AC5-9AAD3B31EA2B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ten-forward/asteroid.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>256EEE8A-6EAB-4297-9AC5-9AAD3B31EA2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>256EEE8A-6EAB-4297-9AC5-9AAD3B31EA2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>asteroid</string>
+		</dict>
+	</array>
+</dict>
+</plist>
